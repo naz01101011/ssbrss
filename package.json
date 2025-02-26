@@ -22,6 +22,7 @@
 	},
 	"dependencies": {
 		"@sanity/client": "^6.28.1",
+		"@sveltejs/adapter-netlify": "^4.4.2",
 		"groq": "^3.77.2",
 		"rss": "^1.2.2"
 	}
